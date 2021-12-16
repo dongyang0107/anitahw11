@@ -1,0 +1,27 @@
+table{
+	margin-left: 50%;
+	background-color: aliceblue;
+}
+img{
+	border: 1px solid;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.picture1{
+	z-index: 1;
+	position: absolute;
+	max-width: 100%;
+}
+.picture2{
+	border: 2px solid greenyellow;
+	width: 40%;
+	height: 30%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.style2{
+	border: 2px solid red;
+	text-align: center;
+	background-image: url('unnamed.jpg');
+	background-postion: center center;
+}

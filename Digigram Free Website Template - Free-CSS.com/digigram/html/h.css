@@ -1,0 +1,33 @@
+
+ #body.main h5{font-family: sans-serif;}
+     #body.main h2{font-family: arial;}
+     #body.main h3{font-family: arial;}
+     #body.main h4{font-family: helvetica;
+      text-decoration: line-through;}
+     #body.main h5, em{text-decoration: overline;}
+
+  span{
+    color: maroon;
+    border-bottom: 2px solid black;
+  }
+  .extra span{
+    color: navy;
+  }
+article{
+	border: solid;
+	border: aliceblue;
+	font-size: 1px;
+	background color: lavender;
+}
+.Lab1{
+	border: 1px solid black;
+	width: 450px;
+	margin-left: 150px;
+	float: left;
+}
+.Lab2{
+	border: 1px solid black;
+	width: 500px;
+	margin-right: 150px;
+	float: right;
+}
